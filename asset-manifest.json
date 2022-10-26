@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://unnsched.github.io/robotc/static/css/main.6ee356bf.chunk.css",
+    "main.js": "https://unnsched.github.io/robotc/static/js/main.12c03db7.chunk.js",
+    "runtime-main.js": "https://unnsched.github.io/robotc/static/js/runtime-main.3bbf6eb0.js",
+    "static/css/2.f6fcc13c.chunk.css": "https://unnsched.github.io/robotc/static/css/2.f6fcc13c.chunk.css",
+    "static/js/2.848ff9cc.chunk.js": "https://unnsched.github.io/robotc/static/js/2.848ff9cc.chunk.js",
+    "static/js/3.caccf24a.chunk.js": "https://unnsched.github.io/robotc/static/js/3.caccf24a.chunk.js",
+    "index.html": "https://unnsched.github.io/robotc/index.html",
+    "static/js/2.848ff9cc.chunk.js.LICENSE.txt": "https://unnsched.github.io/robotc/static/js/2.848ff9cc.chunk.js.LICENSE.txt",
+    "static/media/EV3Robot.41fe37f4.png": "https://unnsched.github.io/robotc/static/media/EV3Robot.41fe37f4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bbf6eb0.js",
+    "static/css/2.f6fcc13c.chunk.css",
+    "static/js/2.848ff9cc.chunk.js",
+    "static/css/main.6ee356bf.chunk.css",
+    "static/js/main.12c03db7.chunk.js"
+  ]
+}
