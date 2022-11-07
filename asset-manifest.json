@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://unnsched.github.io/robotc/static/css/main.9805c7e1.chunk.css",
-    "main.js": "https://unnsched.github.io/robotc/static/js/main.bc625a6d.chunk.js",
+    "main.js": "https://unnsched.github.io/robotc/static/js/main.d52feb61.chunk.js",
     "runtime-main.js": "https://unnsched.github.io/robotc/static/js/runtime-main.5cc0473c.js",
     "static/css/2.f6fcc13c.chunk.css": "https://unnsched.github.io/robotc/static/css/2.f6fcc13c.chunk.css",
     "static/js/2.cf6a38a7.chunk.js": "https://unnsched.github.io/robotc/static/js/2.cf6a38a7.chunk.js",
@@ -13,13 +13,14 @@
     "static/media/DumbLabyrinth33.53da2bac.proj": "https://unnsched.github.io/robotc/static/media/DumbLabyrinth33.53da2bac.proj",
     "static/media/EV3Display.a4389ca4.png": "https://unnsched.github.io/robotc/static/media/EV3Display.a4389ca4.png",
     "static/media/EV3Robot.2440500c.png": "https://unnsched.github.io/robotc/static/media/EV3Robot.2440500c.png",
-    "static/media/SmartLabyrinth33.544f1459.proj": "https://unnsched.github.io/robotc/static/media/SmartLabyrinth33.544f1459.proj"
+    "static/media/SmartLabyrinth33.544f1459.proj": "https://unnsched.github.io/robotc/static/media/SmartLabyrinth33.544f1459.proj",
+    "static/media/SmartLabyrinth45.ea1e11e0.proj": "https://unnsched.github.io/robotc/static/media/SmartLabyrinth45.ea1e11e0.proj"
   },
   "entrypoints": [
     "static/js/runtime-main.5cc0473c.js",
     "static/css/2.f6fcc13c.chunk.css",
     "static/js/2.cf6a38a7.chunk.js",
     "static/css/main.9805c7e1.chunk.css",
-    "static/js/main.bc625a6d.chunk.js"
+    "static/js/main.d52feb61.chunk.js"
   ]
 }
